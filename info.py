@@ -20,7 +20,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'rudramovieBot')
 API_ID = int(environ.get('API_ID', '26484988'))
 API_HASH = environ.get('API_HASH', '8d6e625fe3e296b4b6bd4817aca39ec5')
-BOT_TOKEN = environ.get('BOT_TOKEN', "")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7106589308:AAEeljyn2rd-L3FZILnkPX-7cOuuWu7CKwo")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
